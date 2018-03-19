@@ -1,5 +1,5 @@
 # AlertViewHelper-
-This simple AlertViewHelper Class
+simple AlertViewHelper Class
 
 1.If want to add UIAlertAction
 
